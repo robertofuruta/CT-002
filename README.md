@@ -1,4 +1,4 @@
-# CT-002 — Pharmaverse Clinical Programming Project
+# CT-002 — Statistical Programming Project - R
 
 ## Overview
 
